@@ -1,0 +1,21 @@
+.plan__remove-button {
+    color: red;
+}
+
+.plan--card {
+    display: inline-block;
+    transition: all ease 0.25s;
+}
+
+.plan--card:hover {
+    opacity: 0.75;
+}
+.plan--card .heading {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.plan--card .body {
+    font-size: 20px;
+    padding: 10px;
+}
